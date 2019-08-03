@@ -10,3 +10,5 @@ suc succ.ogg
 whisper whisper.ogg
 wii wii.ogg
 garbage garbage.ogg
+bazingah bazinga.ogg
+cmon thomasong.ogg
